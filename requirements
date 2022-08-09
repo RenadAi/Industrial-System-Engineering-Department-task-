@@ -24,3 +24,6 @@ IoT requirements:
       3. When the amount of coffee runs out, a notification is sent to the administrator to fill the coffee.
       4. Ensure that the distance sensors are placed to prevent the robot from colliding with people.
       5. To ensure the safety of people, when the robot is moving, it automatically turns off the (coffee heater) and when standing, it turns on. 
+
+
+
