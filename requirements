@@ -1,0 +1,25 @@
+
+
+Mechanical Engineering requirements:
+        1. Possibility to pour coffee without spilling it by tilting the robot hand.
+        2. Ensure the balance of the robot and the guide to prevent the guide from falling.
+        3. Composition of robot parts from non-combustible materials.
+        4. Ensure that the robot can move over slippery and uneven surfaces.
+
+Electronics and Power Engineering requirements:
+      1. Ensure that the robot does not malfunction when liquid (coffee) is poured on it by isolating wires and electrical circuits.
+      2. The electronics and power engineering team must provide the appropriate preventive measures in the event of any malfunction or emergency such as an electrical short and when an abnormal sound is heard.
+      3. A list of the conditions necessary to properly operate, update and stop the robot must be provided.
+      
+The requirements of AI and robotics:
+      1. The feature of determining the amount of coffee in the cup based on a sensor to know if the person is small or large.
+      2. Recognizing the signs that the user indicates to the following signs:
+      Stop sign: Extend the palm in front of the robot.
+      And to tire the fangal: pointing with the thumb.
+ 
+IoT requirements:
+      1. The possibility of calling the robot to the site through the application or the smart watch.
+      2. The possibility of stopping the robot remotely through the application.
+      3. When the amount of coffee runs out, a notification is sent to the administrator to fill the coffee.
+      4. Ensure that the distance sensors are placed to prevent the robot from colliding with people.
+      5. To ensure the safety of people, when the robot is moving, it automatically turns off the (coffee heater) and when standing, it turns on. 
